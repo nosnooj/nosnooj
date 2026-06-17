@@ -42,7 +42,11 @@ Senior Backend Engineer at Labgenomics (IT team). I design, build, and operate t
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nosnooj&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=7DCFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nosnooj/nosnooj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nosnooj/nosnooj/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/nosnooj/nosnooj/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## 🔗 Links

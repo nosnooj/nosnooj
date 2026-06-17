@@ -42,7 +42,11 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nosnooj&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=7DCFFF&area=true&custom_title=Contribution%20Graph" alt="기여 활동 그래프">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nosnooj/nosnooj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nosnooj/nosnooj/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub 기여 스네이크 애니메이션" src="https://raw.githubusercontent.com/nosnooj/nosnooj/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## 🔗 링크
