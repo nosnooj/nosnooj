@@ -34,12 +34,7 @@ Senior Backend Engineer at Labgenomics (IT team). I design, build, and operate t
 **Infra · DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazonwebservices) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logoColor=white&logo=nginx) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=white&logo=linux) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logoColor=white&logo=githubactions)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nosnooj&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=c0caf5&bg_color=1A1B27" alt="GitHub stats">
-  <img height="170" src="https://streak-stats.demolab.com?user=nosnooj&theme=tokyonight&hide_border=true&background=1A1B27&stroke=414868&ring=BB9AF7&fire=7DCFFF&currStreakNum=c0caf5&currStreakLabel=7AA2F7&sideNums=c0caf5&sideLabels=7AA2F7&dates=565f89" alt="Contribution streak">
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
